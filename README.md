@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi349&label=Profile%20views&color=0e75b6&style=flat" alt="navi349" /> </p>
 
-- 🔭 I’m currently working on **CMOS SRAM Design**
+- 🌱 List of Projects:
+  - [RISC-V_27](https://github.com/NAvi349/riscv-proc) - A RISC-V based single core processor with 5 staged pipeline and hazard handling
+  - [6-bit Reversible logic Carry Look Ahead Adder](https://github.com/NAvi349/rev-cla-16)
+  - [Transmission Gate based 1 - bit Full adder](https://github.com/NAvi349/trans-full-adder)
 
-- 🌱 I’m currently learning **RISC V Processor Design, Mixed Signal Circuit Design and VLSI Subsystem Design**
+- 🔭 I’m currently working on **CMOS SRAM - Mixed Signal Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
