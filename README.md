@@ -5,7 +5,7 @@
 
 - 🌱 List of Projects:
   - [RISC-V_27](https://github.com/NAvi349/riscv-proc) - System Verilog based RISC-V Single Core processor with 5 stage pipeline and hazard handling
-  - [MYTH] (https://github.com/NAvi349/riscv-myth-ws) - TL - Verilog based RISC-V 5 stage Pipelined Single Core Processor with hazard handling
+  - [MYTH](https://github.com/NAvi349/riscv-myth-ws) - TL - Verilog based RISC-V 5 stage Pipelined Single Core Processor with hazard handling
   - [16-bit Reversible logic Carry Look Ahead Adder](https://github.com/NAvi349/rev-cla-16)
   - [Transmission Gate based 1 - bit Full adder](https://github.com/NAvi349/trans-full-adder)
 
