@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi349&label=Profile%20views&color=0e75b6&style=flat" alt="navi349" /> </p>
 
 - 🌱 List of Projects:
-  - [RISC-V_27](https://github.com/NAvi349/riscv-proc) - A RISC-V based single core processor with 5 staged pipeline and hazard handling
-  - [6-bit Reversible logic Carry Look Ahead Adder](https://github.com/NAvi349/rev-cla-16)
+  - [RISC-V_27](https://github.com/NAvi349/riscv-proc) - System Verilog based RISC-V Single Core processor with 5 stage pipeline and hazard handling
+  - [MYTH] (https://github.com/NAvi349/riscv-myth-ws) - TL - Verilog based RISC-V 5 stage Pipelined Single Core Processor with hazard handling
+  - [16-bit Reversible logic Carry Look Ahead Adder](https://github.com/NAvi349/rev-cla-16)
   - [Transmission Gate based 1 - bit Full adder](https://github.com/NAvi349/trans-full-adder)
 
 - 🔭 I’m currently working on **CMOS SRAM - Mixed Signal Design**
