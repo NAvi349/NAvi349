@@ -9,7 +9,7 @@
   - [16-bit Reversible logic Carry Look Ahead Adder](https://github.com/NAvi349/rev-cla-16)
   - [Transmission Gate based 1 - bit Full adder](https://github.com/NAvi349/trans-full-adder)
 
-- 🔭 I’m currently working on **CMOS SRAM - Mixed Signal Design**
+- 🔭 I’m currently learning **FPGA Based Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
