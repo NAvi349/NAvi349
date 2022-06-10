@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi349&label=Profile%20views&color=0e75b6&style=flat" alt="navi349" /> </p>
 
 - 🌱 List of Projects:
+  - [RISC - V Core on Open FPGA Architecture](https://github.com/NAvi349/osfpga-fda)
   - [RISC-V_27](https://github.com/NAvi349/riscv-proc) - System Verilog based RISC-V Single Core processor with 5 stage pipeline and hazard handling
   - [MYTH](https://github.com/NAvi349/riscv-myth-ws) - TL - Verilog based RISC-V 5 stage Pipelined Single Core Processor with hazard handling
   - [16-bit Reversible logic Carry Look Ahead Adder](https://github.com/NAvi349/rev-cla-16)
