@@ -5,6 +5,7 @@
 
 - 🌱 List of Projects:
   - [AXI4 Full with burst transfer](https://github.com/NAvi349/axi_full) - This AXI4 UVM environment contains support for burst transfer and multi-ID writes
+  - [APB UVM](https://github.com/NAvi349/apb-uvm) - UVM environment for APB
   - [RISC - V Core on Open FPGA Architecture](https://github.com/NAvi349/osfpga-fda)
   - [RISC-V_27](https://github.com/NAvi349/riscv-proc) - System Verilog based RISC-V Single Core processor with 5 stage pipeline and hazard handling
   - [MYTH](https://github.com/NAvi349/riscv-myth-ws) - TL - Verilog based RISC-V 5 stage Pipelined Single Core Processor with hazard handling
