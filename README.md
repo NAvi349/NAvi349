@@ -24,9 +24,8 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/navinkumar-k-208721199" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navinkumar-k-208721199" height="30" width="40" /></a>
-<a href="https://instagram.com/nk_lightning" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nk_lightning" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/knavin2002" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knavin2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navinkumar-k-208721199" target="blank"></a>
+<a href="https://www.hackerrank.com/knavin2002" target="blank"></a>
 </p>
 
 ### 🛠 Languages and Tools:
