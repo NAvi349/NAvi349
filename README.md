@@ -23,10 +23,9 @@
 ---
 
 ### 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/navinkumar-k-208721199" target="blank"></a>
-<a href="https://www.hackerrank.com/knavin2002" target="blank"></a>
-</p>
+**[LinkedIn](https://linkedin.com/in/navinkumar-k-208721199)** | **[HackerRank](https://www.hackerrank.com/knavin2002)**
+
+---
 
 ### 🛠 Languages and Tools:
 <p align="left"> 
