@@ -1,9 +1,5 @@
 # Navinkumar
-**Silicon Verification Engineer | Ethernet | PTP | TC10 | CUDA C++ | AXI**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=navi349&label=Profile%20views&color=0e75b6&style=flat-square" alt="navi349" />
-</p>
+**Silicon Verification Engineer | VLSI Enthusiast**
 
 ---
 
@@ -27,28 +23,24 @@
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Skills & Competencies
 
-**Languages:** SystemVerilog, Verilog, C, C++, Python, Perl  
-**Tools & Platforms:** UVM, Linux, Figma, Open FPGA Architecture
-
-<br/>
-
-<p align="left">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35" alt="C"/></a> &nbsp;
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35" alt="C++"/></a> &nbsp;
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python"/></a> &nbsp;
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35" alt="Linux"/></a> &nbsp;
-  <a href="https://www.perl.org/"><img src="https://api.iconify.design/logos-perl.svg" width="35" height="35" alt="Perl"/></a>
-</p>
+*   **HDL/HVL:** SystemVerilog, Verilog
+*   **Methodologies:** UVM (Universal Verification Methodology)
+*   **Scripting & Languages:** Python, Perl, C, C++
+*   **Tools & Platforms:** Linux, Open FPGA Architecture, Figma
 
 ---
 
 ### 🤝 Connect
-[LinkedIn](https://linkedin.com/in/navinkumar-k-208721199) • [HackerRank](https://www.hackerrank.com/knavin2002) • [GitHub](https://github.com/NAvi349)
+
+**[LinkedIn](https://linkedin.com/in/navinkumar-k-208721199)**  |  **[HackerRank](https://www.hackerrank.com/knavin2002)**  |  **[GitHub](https://github.com/NAvi349)**
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navi349&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 Statistics
+
+*   **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=navi349&label=Total%20Views&color=grey&style=flat-square)
+*   **Top Languages:** [SystemVerilog, C++, Python, Perl]
+
+[View Detailed Stats](https://github.com/NAvi349?tab=repositories)
