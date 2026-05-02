@@ -4,14 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi349&label=Profile%20views&color=0e75b6&style=flat" alt="navi349" /> </p>
 
 - 🌱 List of Projects:
-  - [AXI4 Full with burst transfer](https://github.com/NAvi349/axi_full)
+  - [AXI4 Full with burst transfer](https://github.com/NAvi349/axi_full) - This AXI4 UVM environment contains support for burst transfer and multi-ID writes
   - [RISC - V Core on Open FPGA Architecture](https://github.com/NAvi349/osfpga-fda)
   - [RISC-V_27](https://github.com/NAvi349/riscv-proc) - System Verilog based RISC-V Single Core processor with 5 stage pipeline and hazard handling
   - [MYTH](https://github.com/NAvi349/riscv-myth-ws) - TL - Verilog based RISC-V 5 stage Pipelined Single Core Processor with hazard handling
   - [16-bit Reversible logic Carry Look Ahead Adder](https://github.com/NAvi349/rev-cla-16)
   - [Transmission Gate based 1 - bit Full adder](https://github.com/NAvi349/trans-full-adder)
 
-- 🔭 I’m currently **Implementing UVM testbench for AXI4 protocol**
+- 🔭 I’m currently working on following:
+- Coverage and Assertions for my AXI4 Project
+- Explore Formal Verification for the AXI4 Project (Yet to learn)
+- CUDA C++ project (Have completed an NPTEL course, deciding on a project)
+- DDR3 SDRAM project Controller UVM environment
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
