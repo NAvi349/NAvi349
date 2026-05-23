@@ -16,11 +16,11 @@
 
 ---
 
-### 🔭 Current Focus
+### 🔭 Current Plans
 
-*   **Verification:** Developing Coverage and Assertions for AXI4 & exploring Formal Verification.
+*   **Verification:** Architecting a UVM environment for AXI Crossbar.
 *   **Memory Controllers:** Architecting a DDR3 SDRAM Controller UVM environment.
-*   **Parallel Computing:** Developing a custom project in CUDA C++.
+*   **Parallel Computing:** Choosing a custom project in CUDA C++.
 
 ---
 
