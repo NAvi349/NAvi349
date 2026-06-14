@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 Technical Projects
-
+*   **[Round Robin Arbiter](https://github.com/NAvi349/rr-arb-uvm/)** - (WIP) UVM architecture for a round-robin arbiter.
 *   **[AXI Lite Cross-bar](https://github.com/NAvi349/axi4-lite-crossbar-uvm-env)** – (WIP) AXI-Lite cross-bar with 4 masters and 8 slaves.
 *   **[AXI4 Full with Burst Transfer](https://github.com/NAvi349/axi_full)** – UVM environment supporting burst transfers and multi-ID writes.
 *   **[APB UVM](https://github.com/NAvi349/apb-uvm)** – Comprehensive UVM-based verification environment for APB protocols.
